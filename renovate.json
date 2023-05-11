@@ -1,0 +1,6 @@
+{
+  "extends": ["config:base"],
+  "flux": {
+    "fileMatch": ["\\.yaml$"]
+  }
+}
